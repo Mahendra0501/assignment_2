@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "type": "msedge",
+            "name": "http://127.0.0.1:3000/all in one task.html",
+            "request": "launch",
+            "url": "http://127.0.0.1:3000/all in one task.html"
+        }
+    ]
+}
